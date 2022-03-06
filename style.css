@@ -65,6 +65,9 @@ left: 100px;
     .layer{
         background:none;
 
+    }
+    .layer-in{
+        width:100%;
 
     }
 

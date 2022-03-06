@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+a:link{
+    color: #ffffff00;
+}
+.layer{
+    background: url(https://via.placeholder.com/640x4000/000000/00000.png) no-repeat 0 0;
+    background-size: 100%;
+    position: relative;
+    text-align: center;
+    height: 4000px;
+    width: 100%;
+}
+
+.layer-in{
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    width: 600px;
+    height: auto;
+    margin: auto;
+}
+
+.layer-img{
+    width: 600px;
+    height: auto;
+}
+
+.btn-link{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left:0;
+    right: 0;
+    top: 674px;
+    
+}
+
+.btn-link-LINE{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left:0;
+    right: 0;
+    top: 1082px;
+}
+
+
+
+
+.btn-link a {
+
+top: 237px;
+
+left: 100px;
+}   
